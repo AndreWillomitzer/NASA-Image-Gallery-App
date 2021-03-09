@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/36431357/110411224-31728c00-8058-11eb-9e22-cddb7d51b3c0.png)
+
+Note: search by keyword functionality not implemented yet.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-![image](https://user-images.githubusercontent.com/36431357/110411224-31728c00-8058-11eb-9e22-cddb7d51b3c0.png)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
